@@ -1,0 +1,4 @@
+code;name;descr
+Create;create;Request Type for Creating
+Change;change;Request Type for Updating
+Extend;extend;Request Type for Extending
